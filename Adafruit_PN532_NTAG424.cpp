@@ -72,7 +72,7 @@ byte pn532response_firmwarevers[] = {
 
 // #define PN532DEBUG
 // #define MIFAREDEBUG
-#define NTAG424DEBUG
+// #define NTAG424DEBUG
 
 // If using Native Port on Arduino Zero or Due define as SerialUSB
 #define PN532DEBUGPRINT Serial ///< Fixed name for debug Serial instance
